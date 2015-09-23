@@ -1,5 +1,5 @@
 # Systran Multimodal Java Client Library.
-This is a Java implementation of the [Systran Multimodal](https://api-platform-stag.systran.net/reference/multimodal) Client Library.
+This is a Java implementation of the [Systran Multimodal](https://platform.systran.net/reference/multimodal) Client Library.
 This client is a standard Maven project.
 
 ## Compile
